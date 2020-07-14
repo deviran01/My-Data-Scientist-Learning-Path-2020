@@ -3,5 +3,5 @@
 
 
 ## Step 1 : Basic Python Learning
-1 - Python for Data Analusis (Book)
+[] 1 - Python for Data Analusis (Book)
 
